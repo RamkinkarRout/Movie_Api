@@ -45,7 +45,7 @@ function Banner() {
     <div>
       {/* -------------------bannner image----------- */}
       <header
-        className="w-full bg-cover bg-center bg-blend-darken opacity-75 overflow-hidden relative"
+        className="w-full bg-cover bg-center bg-blend-darken opacity-75git config --global user.email "your_email_address@example.com" overflow-hidden relative"
         style={{
           backgroundImage: content.backdrop_path
             ? `url(${IMG_BASE_URL}${BACKDROP_SIZE}${content.backdrop_path})`
@@ -98,7 +98,7 @@ function Banner() {
           </div>
         </nav>
 
-        {/* ----------------------------banner details section---------------------- */}
+        {/* ------------------------------banner details section----------------------- */}
 
         <div className="absolute bg-orange z-30 ml-4 bottom-11 w-8/12">
           <h1 className="text-yellow-500 tracking-wider leading-snug font-extrabold text-2xl md:4xl shadow-md hover:opacity-50 uppercase hover:translate-x-2">
