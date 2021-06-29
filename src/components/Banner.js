@@ -45,7 +45,7 @@ function Banner() {
     <div>
       {/* -------------------bannner image----------- */}
       <header
-        className="w-full bg-cover bg-center bg-blend-darken opacity-75git config --global user.email "your_email_address@example.com" overflow-hidden relative"
+        className="w-full bg-cover bg-center bg-blend-darken opacity-75git config --global overflow-hidden relative"
         style={{
           backgroundImage: content.backdrop_path
             ? `url(${IMG_BASE_URL}${BACKDROP_SIZE}${content.backdrop_path})`
